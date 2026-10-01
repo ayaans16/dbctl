@@ -38,3 +38,7 @@ build/
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+
+.claude/
+.mvn/
+.vscode/
